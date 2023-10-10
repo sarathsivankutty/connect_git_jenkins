@@ -1,4 +1,5 @@
 # 03_05 Challenge Connect Jenkins to GitHub
+add
 <a href='http://34.206.238.244/job/excercise_connect_git_jenkins/'><img src='http://54.162.141.59:8080/buildStatus/icon?job=excercise_connect_git_jenkins'></a>
 
 You're on a team developing an algorithm that calculates the value of pi.
